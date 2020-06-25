@@ -1,0 +1,36 @@
+#main {
+    background-color: #fdfaa8;
+    font-family: 'EB Garamond', serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#title{
+    font-size: 50px;
+    margin: 30px;
+}
+
+#sub-title{
+    margin-top: 5px;
+}
+
+#image{
+    max-width: 80%;
+    height: auto;
+}
+
+#img-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+#tribute-info {
+    max-width: 80%;
+    font-size: 16px;
+}
