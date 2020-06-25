@@ -10,3 +10,4 @@ Developed by:
 - Tamara Muñoz
 
 Deploy:
+https://tamaramunoz.github.io/tribute-page/src/index.html
