@@ -1,5 +1,6 @@
 #main {
     background-color: #fdfaa8;
+    color: #2d3436;
     font-family: 'EB Garamond', serif;
     display: flex;
     flex-direction: column;
@@ -31,6 +32,16 @@
 }
 
 #tribute-info {
-    max-width: 80%;
+    max-width: 75%;
     font-size: 16px;
+}
+
+#tribute-blockquote{
+    max-width: 70%;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#tribute-link-info{
+    font-weight: bold;
 }
